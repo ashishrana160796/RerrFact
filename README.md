@@ -16,7 +16,7 @@ pip install -r label_requirements.txt
 ```
 
 ## 3. Download trained models
-Download the trained models using this link.
+Download the trained models using [this](https://drive.google.com/drive/folders/1ZBmHmOUjrOReGEPLOjnTm3cv78wNgP3B?usp=sharing) link.
 
 ## 4. Using pre-trained models
 Abstract Retrieval
